@@ -1,6 +1,6 @@
 -- Create a Students table
 
-CREATE TABLE Student (
+CREATE TABLE Students (
     StudentID INT PRIMARY KEY,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
@@ -9,7 +9,7 @@ CREATE TABLE Student (
 
 -- Insert sample data
 
-INSERT INTO Student
+INSERT INTO Students
 VALUES
 (1, 'John', 'Doe', 'john@example.com'),
 (2, 'Mary', 'Smith', 'mary@example.com');
