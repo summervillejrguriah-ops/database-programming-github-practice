@@ -9,6 +9,6 @@ During this assignment, I learned how to:
 - Understand how Git tracks project history.
 - Work with public repositories for collaboration.
 - Give me better knowledge on working with Github and Git.
-- Better understanding on how to navigate Github repository.
+- Better understanding 
 
 This exercise improved my understanding of version control using GitHub.
